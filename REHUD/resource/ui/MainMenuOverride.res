@@ -189,7 +189,7 @@
 			"font"	"HudFontSmallBold"
 			"labelText"	"#WelcomeBack"
 			"textAlignment"	"west"
-			"xpos"	"70"
+			"xpos"	"100"
 			"ypos"	"5"
 			"wide"	"300"
 			"tall"	"15"

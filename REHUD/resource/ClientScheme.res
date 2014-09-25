@@ -20,8 +20,8 @@ Scheme
 	{
 		// Garm3n Colors
 
-		"Garm3nAmmo"			"255 125 0 255"
-		"Garm3nAmmoRes"			"0 175 255 255"
+		"Garm3nAmmo"			"Garm3nOrange"
+		"Garm3nAmmoRes"			"Garm3nBlue"
 
 // Replace the numbers above with any of these to change the Ammo color. These seven are just examples, you can change to whatever color you wish.
 
@@ -35,14 +35,14 @@ Scheme
 
 		"Garm3nCharge"			"42 79 134 255"
 		"Garm3nDamage"			"255 255 0 255"
-		"Garm3nHealth"			"255 255 255 255"
-		"Garm3nLow"			"255 35 235 255"
+		"Garm3nHealth"			"Garm3nWhite"
+		"Garm3nLow"			"Garm3nRed"
 		"Garm3nMenuBG"			"0 0 0 125"
 		"Garm3nLabelsBG"			"0 0 0 125"
 		"Garm3nMetal"			"71 87 93 255"
 		"Garm3nMeter"			"255 255 255 255"
 
-		"Garm3nPlus"			"0 175 255 255" // Boosted Health Color
+		"Garm3nPlus"			"Garm3nBlue" // Boosted Health Color
 
 		"Garm3nTarget"			"255 255 255 255"
 
