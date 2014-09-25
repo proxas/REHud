@@ -90,3 +90,5 @@ If you want to change color on Demoman sticky ChargeMeter.
 4. Save.
 
 -----------------------------------------------------------
+
+Garm3nHUD page: http://www.sdx-gaming.eu/?page_id=4097
