@@ -744,8 +744,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"LocalPlayerDuelStatsPanel"
-		"xpos"			"20"
-		"ypos"			"305"
+		"xpos"			"150"
+		"ypos"			"335"
 		"zpos"			"5"
 		"wide"			"489"
 		"tall"			"54"
